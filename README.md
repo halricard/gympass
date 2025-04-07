@@ -41,7 +41,7 @@ Ideal para quem quer praticidade, mobilidade e bem-estar sem complicações.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/gympass.git
+git clone https://github.com/halricard/gympass.git
 
 # Instale as dependências
 npm install
@@ -53,4 +53,4 @@ cp .env.example .env
 npx prisma migrate dev
 
 # Inicie o servidor
-npm run dev
+npm run start:dev
